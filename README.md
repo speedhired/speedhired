@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @speedhired
 - 👀 I’m interested in AI recruitment 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on open sourced emotion analysis and 
-- 📫 How to reach me : https://speedhired.com/
-- 😄 Pronouns: ...
+- 💞️ I’m looking to collaborate on open sourced emotion analysis and facial recognition models
+- 📫 How to reach me : contact@speedhired.com
+- 😄 Website : https://speedhired.com/
 - ⚡ Fun fact: ...
 
 <!---
